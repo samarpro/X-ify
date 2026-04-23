@@ -3,10 +3,10 @@ __pycache__/
 .venv/
 .env
 .ruff_cache/
-.bin/
-.lib/
-.include/
-.pytest_cache/
+bin/
+lib/
+include/
+*pytest_cache*/
 .mypy_cache/
 .coverage
 htmlcov/
@@ -18,3 +18,4 @@ build/
 *.bak
 *.swp
 .DS_Store
+*.cfg
