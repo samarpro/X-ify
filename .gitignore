@@ -18,4 +18,5 @@ build/
 *.bak
 *.swp
 .DS_Store
+.worktrees/
 *.cfg
