@@ -1,0 +1,1 @@
+We are building a small Python CLI that uses Playwright with a persistent profile to read an X timeline, filter posts with local rules, and optionally rank them with an LLM. Prefer tooling and libraries that keep the codebase simple.

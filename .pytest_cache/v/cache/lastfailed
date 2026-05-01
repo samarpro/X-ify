@@ -1,1 +1,3 @@
-{}
+{
+  "tests/test_browser_profile_split.py": true
+}

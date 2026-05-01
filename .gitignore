@@ -2,6 +2,8 @@ __pycache__/
 *.pyc
 .venv/
 .env
+var/
+output/
 .ruff_cache/
 bin/
 lib/
@@ -19,3 +21,4 @@ build/
 *.swp
 .DS_Store
 *.cfg
+automation-chrome/

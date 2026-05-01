@@ -1,0 +1,13 @@
+include_keywords:
+  - python
+  - playwright
+exclude_keywords:
+  - spam
+required_hashtags: []
+blocked_authors:
+  - some_bot_handle
+url_domains_allowlist: []
+url_domains_blocklist: []
+min_post_age_hours: null
+max_post_age_hours: null
+patterns: []
